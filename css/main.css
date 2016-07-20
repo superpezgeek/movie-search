@@ -1,0 +1,9 @@
+.media-object {
+  width: 65px;
+  border: solid black 1px;
+  padding: 3px;
+}
+
+.media-heading {
+  margin-top: 5px;
+}
